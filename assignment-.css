@@ -1,0 +1,2725 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.assignment--oYu {
+  width: 100%;
+  height: 768.8rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-cufb-bUm {
+  width: 284.6rem;
+  height: 221rem;
+  position: absolute;
+  left: 0;
+  top: 547.8rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .notinline-D8m {
+  width: 127rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 74.6rem;
+  font-size: 25rem;
+  font-weight: 600;
+  line-height: 0.888;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-42-F5T {
+  width: 284.6rem;
+  height: 121.55rem;
+  position: absolute;
+  left: 0;
+  top: 16.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 31.65rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .download-the-notinline-app-YqF {
+  width: 71rem;
+  height: 7rem;
+  position: absolute;
+  left: 36.2rem;
+  top: 45.3rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.assignment--oYu .auto-group-cufb-bUm .download-the-notinline-app-YqF .download-the-notinline-app-YqF-sub-0 {
+}
+.assignment--oYu .auto-group-cufb-bUm .download-the-notinline-app-YqF .download-the-notinline-app-YqF-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #138ed1;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-cufb-bUm .download-the-notinline-app-YqF .download-the-notinline-app-YqF-sub-2 {
+}
+.assignment--oYu .auto-group-cufb-bUm .vector-9-rN5 {
+  width: 23.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 73rem;
+  top: 52.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-43-AtZ {
+  width: 269.9rem;
+  height: 68.7rem;
+  position: absolute;
+  left: 0;
+  top: 69.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 31.65rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .notinline-VA9 {
+  width: 127rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 116.7rem;
+  font-size: 25rem;
+  font-weight: 600;
+  line-height: 0.888;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .notinline-An5 {
+  width: 127rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 95.2rem;
+  font-size: 25rem;
+  font-weight: 600;
+  line-height: 0.888;
+  color: rgba(0, 140, 216, 0.1099999994);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .screenshot2023-07-25102107-removebg-preview-1-sRb {
+  width: 36.5rem;
+  height: 68.4rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 54.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-45-Nt9 {
+  width: 28.6rem;
+  height: 10rem;
+  position: absolute;
+  left: 59.2rem;
+  top: 101.5rem;
+  background-color: #333333;
+  border-radius: 1.7rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-46-VC5 {
+  width: 28.6rem;
+  height: 10rem;
+  position: absolute;
+  left: 89.7rem;
+  top: 101.5rem;
+  background-color: #333333;
+  border-radius: 1.7rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-47-1w7 {
+  width: 5.9rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 91.8rem;
+  top: 103.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-cufb-bUm .app-store-8F3 {
+  width: 12rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 99.8rem;
+  top: 104.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .play-store-Eos {
+  width: 12.2rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 68.9rem;
+  top: 104.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-48-8uF {
+  width: 5.9rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 61.2rem;
+  top: 103.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-44-fPP {
+  width: 60.9rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 59.2rem;
+  top: 87.2rem;
+  border: solid 0.03rem #6d6d6d;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.4rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-44-NHo {
+  width: 11.8rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 108.3rem;
+  top: 87.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.4rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .line-3-VdK {
+  width: 0.1rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 71rem;
+  top: 88.8rem;
+  background-color: #6d6d6d;
+}
+.assignment--oYu .auto-group-cufb-bUm .item-91-DpD {
+  width: 5.2rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 90.2rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.09375;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-49-vTj {
+  width: 144rem;
+  height: 82.7rem;
+  position: absolute;
+  left: 0;
+  top: 138.3rem;
+  background-color: #1f1f1f;
+}
+.assignment--oYu .auto-group-cufb-bUm .nillogotransparent-1-1-GGh {
+  width: 13.7rem;
+  height: 13.7rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 147.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-cufb-bUm .book-doctor-appointments-online-and-get-your-ailments-treated-in-no-time-with-our-expert-medical-support-systems-get-rid-of-all-your-medical-problem-with-our-expert-panel-of-doctors-who-guide-you-towards-a-healthier-life-zCh {
+  width: 46.7rem;
+  height: 15rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 164.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-cufb-bUm .appointments-Pkd {
+  width: 14.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 65rem;
+  top: 167.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-50-W4Z {
+  width: 47.1rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 186.3rem;
+  backdrop-filter: blur(1.25rem);
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 1.4rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-51-Q9w {
+  width: 11.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 37.8rem;
+  top: 186.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.4rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .call-7a9 {
+  width: 3.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 41.7rem;
+  top: 188.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-cufb-bUm .line-4-3ih {
+  width: 0.1rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 187.5rem;
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-cufb-bUm .item-91-P1s {
+  width: 3.9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 189.3rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .services-hHT {
+  width: 13.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 65rem;
+  top: 157.4rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.09375;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .lab-tests-DWh {
+  width: 9rem;
+  height: 3rem;
+  position: absolute;
+  left: 65rem;
+  top: 173.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .a-z-medicine-LrD {
+  width: 13.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 65rem;
+  top: 179.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .doctor-support-rJm {
+  width: 15.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 65rem;
+  top: 185.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .general-info-N2D {
+  width: 12.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 88.5rem;
+  top: 167.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .legal-Ub3 {
+  width: 9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 88.5rem;
+  top: 157.4rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.09375;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .privacy-policy-CG9 {
+  width: 13.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 88.5rem;
+  top: 173.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .terms-of-services-78D {
+  width: 17.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 88.5rem;
+  top: 179.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .consultation-Dww {
+  width: 12.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 88.5rem;
+  top: 185.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .how-it-works-kBB {
+  width: 13rem;
+  height: 3rem;
+  position: absolute;
+  left: 88.5rem;
+  top: 192.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .supportnotinlinecom-rzu {
+  width: 23.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 112rem;
+  top: 167.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .talk-to-us-yJq {
+  width: 15.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 112rem;
+  top: 157.4rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.09375;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .appointmentnotinlinecom-VY5 {
+  width: 29.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 112rem;
+  top: 173.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .item-91-12345-67899-Quw {
+  width: 15.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 112rem;
+  top: 179.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .item-91-97642-09752-v7b {
+  width: 16.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 112rem;
+  top: 185.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .line-5-dGu {
+  width: 139.1rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 199.1rem;
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-cufb-bUm .all-rights-reserved-ksK {
+  width: 30.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 205.4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-53-TFw {
+  width: 47rem;
+  height: 37.9rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 18.95rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-54-Bhj {
+  width: 54.4rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 75.4rem;
+  top: 0.3rem;
+  border: solid 0.1rem #2f2f2f;
+  box-sizing: border-box;
+  background-color: #f3f2f2;
+  border-radius: 1.5rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-55-tc9 {
+  width: 54.4rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 75.4rem;
+  top: 12.2rem;
+  border: solid 0.1rem #2f2f2f;
+  box-sizing: border-box;
+  background-color: #f3f2f2;
+  border-radius: 1.5rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-56-Ccq {
+  width: 54.4rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 75.4rem;
+  top: 24.1rem;
+  border: solid 0.1rem #2f2f2f;
+  box-sizing: border-box;
+  background-color: #f3f2f2;
+  border-radius: 1.5rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .ellipse-26-KhT {
+  width: 8.3rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 64.7rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.8rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 4.15rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .ellipse-27-EZX {
+  width: 8.3rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 64.7rem;
+  top: 11.9rem;
+  box-shadow: 0 0.4rem 0.8rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 4.15rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .ellipse-28-vSM {
+  width: 8.3rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 64.7rem;
+  top: 23.8rem;
+  box-shadow: 0 0.4rem 0.8rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 4.15rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .person-qJR {
+  width: 3.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 67rem;
+  top: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-cufb-bUm .full-name-Abb {
+  width: 10.4rem;
+  height: 4rem;
+  position: absolute;
+  left: 82.85rem;
+  top: 2.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  font-style: italic;
+  color: #404040;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .email-GPj {
+  width: 5.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 82.85rem;
+  top: 14.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  font-style: italic;
+  color: #404040;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .phone-number-BWh {
+  width: 15.4rem;
+  height: 4rem;
+  position: absolute;
+  left: 82.8rem;
+  top: 26rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  font-style: italic;
+  color: #404040;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .rectangle-59-Ukh {
+  width: 23.5rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 106.3rem;
+  top: 34.2rem;
+  background-color: #008cd8;
+  border-radius: 1rem;
+}
+.assignment--oYu .auto-group-cufb-bUm .submit-QPT {
+  width: 9rem;
+  height: 4rem;
+  position: absolute;
+  left: 113.6rem;
+  top: 35.6rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-cufb-bUm .call-7Ym {
+  width: 3.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 66.9rem;
+  top: 26rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh {
+  width: 278.75rem;
+  height: 341.3rem;
+  position: absolute;
+  left: 0;
+  top: 200.3rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-22-8Cy {
+  width: 278.75rem;
+  height: 169.4rem;
+  position: absolute;
+  left: 0;
+  top: 79.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 42.7rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-22-G4H {
+  width: 207.8rem;
+  height: 160.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 42.7rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .live-without-pain-get-back-to-being-you-Pub {
+  width: 56.7rem;
+  height: 14rem;
+  position: absolute;
+  left: 84.7rem;
+  top: 3.6rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .live-without-pain-get-back-to-being-you-Pub .live-without-pain-get-back-to-being-you-Pub-sub-0 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .live-without-pain-get-back-to-being-you-Pub .live-without-pain-get-back-to-being-you-Pub-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #138ed1;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .live-without-pain-get-back-to-being-you-Pub .live-without-pain-get-back-to-being-you-Pub-sub-2 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .why-choose-us-gGR {
+  width: 39.8rem;
+  height: 7rem;
+  position: absolute;
+  left: 51.8rem;
+  top: 67.5rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.assignment--oYu .auto-group-ugfs-eYh .why-choose-us-gGR .why-choose-us-gGR-sub-0 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .why-choose-us-gGR .why-choose-us-gGR-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #008cd8;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .why-choose-us-gGR .why-choose-us-gGR-sub-2 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .we-want-you-and-your-heart-to-be-healthy-so-you-can-live-a-happy-life-ZUd {
+  width: 72.3rem;
+  height: 8rem;
+  position: absolute;
+  left: 35.8rem;
+  top: 77.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  color: #6d6d6d;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .vector-3-38u {
+  width: 20.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 95.6rem;
+  top: 9.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh .check-doctor-profiles-a8q {
+  width: 26.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 91.5rem;
+  top: 24rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .book-appointments-H3F {
+  width: 24.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 91.5rem;
+  top: 31.2rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .receive-your-consultation-b3w {
+  width: 32.1rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 91.5rem;
+  top: 38.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .get-your-solutions-HSZ {
+  width: 22.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 91.5rem;
+  top: 45.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-23-PEh {
+  width: 21.5rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 52.1rem;
+  background-color: #138ed1;
+  border-radius: 2.9rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .explore-uTw {
+  width: 9.2rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 91rem;
+  top: 53.2rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4583333333;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .vector-4-pau {
+  width: 20.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 63.9rem;
+  top: 74.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-24-9t5 {
+  width: 37.3rem;
+  height: 22.6rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 91.8rem;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.3rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-25-Tds {
+  width: 37.3rem;
+  height: 24.4rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 125.2rem;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.3rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-26-nAM {
+  width: 37.3rem;
+  height: 24.4rem;
+  position: absolute;
+  left: 53.7rem;
+  top: 97.6rem;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.3rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-27-J8h {
+  width: 37.3rem;
+  height: 24.4rem;
+  position: absolute;
+  left: 53.7rem;
+  top: 130.9rem;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.3rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .ellipse-13-QhX {
+  width: 12rem;
+  height: 12rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 85.8rem;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-13-bg.png');
+  border-radius: 6rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .ellipse-14-6aM {
+  width: 12rem;
+  height: 12rem;
+  position: absolute;
+  left: 79rem;
+  top: 91.8rem;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-14-bg.png');
+  border-radius: 6rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .ellipse-13-zvd {
+  width: 12rem;
+  height: 12rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 119.2rem;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-13-bg-2GZ.png');
+  border-radius: 6rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .ellipse-15-JgR {
+  width: 12rem;
+  height: 12rem;
+  position: absolute;
+  left: 79rem;
+  top: 124.9rem;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-15-bg.png');
+  border-radius: 6rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .expert-doctors-DYV {
+  width: 18.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 93.6rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .value-experience-vSu {
+  width: 21.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 56.6rem;
+  top: 99.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .seamless-care-dMK {
+  width: 17.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 14.25rem;
+  top: 127.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .transparency-YDP {
+  width: 16.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 56.6rem;
+  top: 132.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-28-eGR {
+  width: 144rem;
+  height: 181.5rem;
+  position: absolute;
+  left: 0;
+  top: 159.8rem;
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-ugfs-eYh .expressive-young-woman-posing-studio-removebg-preview-transformed-1-BXF {
+  width: 87.4rem;
+  height: 70.7rem;
+  position: absolute;
+  left: 56.6rem;
+  top: 89rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh .get-in-touch-with-our-team-of-expert-doctors-with-years-of-experience-and-hop-on-to-your-journey-towards-recovery-6PK {
+  width: 30.2rem;
+  height: 12rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 100rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .experience-the-comfort-of-seamless-care-with-no-hassle-of-waiting-in-long-queues-just-to-get-an-appointment-we-provide-you-with-all-the-necessary-booking-facilities-you-need-for-a-healthier-life-ZXo {
+  width: 33rem;
+  height: 15rem;
+  position: absolute;
+  left: 14.5rem;
+  top: 132.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5625;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .get-all-your-problems-treated-by-doctors-holding-years-of-experience-working-with-patients-from-all-over-the-country-Cam {
+  width: 29.4rem;
+  height: 12rem;
+  position: absolute;
+  left: 56.6rem;
+  top: 105.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .we-maintain-full-transparency-from-our-end-from-start-to-finish-so-you-have-a-smooth-and-hassle-free-medical-journey-and-stay-ahead-of-the-line-sgu {
+  width: 29.3rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 56.6rem;
+  top: 138.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5625;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .hear-from-our-happy-customers-873 {
+  width: 78.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 32.5rem;
+  top: 169.3rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.assignment--oYu .auto-group-ugfs-eYh .hear-from-our-happy-customers-873 .hear-from-our-happy-customers-873-sub-0 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .hear-from-our-happy-customers-873 .hear-from-our-happy-customers-873-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #008cd8;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .hear-from-our-happy-customers-873 .hear-from-our-happy-customers-873-sub-2 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .still-have-questions-qff {
+  width: 50rem;
+  height: 7rem;
+  position: absolute;
+  left: 46.6rem;
+  top: 238.8rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.assignment--oYu .auto-group-ugfs-eYh .still-have-questions-qff .still-have-questions-qff-sub-0 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .still-have-questions-qff .still-have-questions-qff-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #008cd8;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .still-have-questions-qff .still-have-questions-qff-sub-2 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .contact-us-c49 {
+  width: 26.2rem;
+  height: 7rem;
+  position: absolute;
+  left: 58.6rem;
+  top: 332.4rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.assignment--oYu .auto-group-ugfs-eYh .contact-us-c49 .contact-us-c49-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #138ed1;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .contact-us-c49 .contact-us-c49-sub-1 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .vector-5-zqP {
+  width: 17rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 67.8rem;
+  top: 176.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-29-vyw {
+  width: 58.8rem;
+  height: 34.4rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 182.8rem;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-30-FFX {
+  width: 58.8rem;
+  height: 34.4rem;
+  position: absolute;
+  left: 73rem;
+  top: 182.8rem;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-ugfs-eYh .ellipse-16-yBX {
+  width: 15.2rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 36.1rem;
+  top: 209.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-16-bg.png');
+  border-radius: 7.6rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .i-recently-used-this-online-doctor-appointment-booking-service-and-i-must-say-it-exceeded-my-expectations-the-websites-user-friendly-interface-made-scheduling-an-appointment-a-breeze-within-minutes-i-found-a-suitable-doctor-selected-a-convenient-time-slot-and-received-a-confirmation-email-the-best-part-was-the-wide-selection-of-doctors-and-medical-specialties-available-i-highly-recommend-this-platform-to-anyone-seeking-a-hassle-free-way-to-book-doctor-appointments-online-gLq {
+  width: 52.3rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 185.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .i-recently-used-this-online-doctor-appointment-booking-service-and-i-must-say-it-exceeded-my-expectations-the-websites-user-friendly-interface-made-scheduling-an-appointment-a-breeze-within-minutes-i-found-a-suitable-doctor-selected-a-convenient-time-slot-and-received-a-confirmation-email-the-best-part-was-the-wide-selection-of-doctors-and-medical-specialties-available-i-highly-recommend-this-platform-to-anyone-seeking-a-hassle-free-way-to-book-doctor-appointments-online-gLq .i-recently-used-this-online-doctor-appointment-booking-service-and-i-must-say-it-exceeded-my-expectations-the-websites-user-friendly-interface-made-scheduling-an-appointment-a-breeze-within-minutes-i-found-a-suitable-doctor-selected-a-convenient-time-slot-and-received-a-confirmation-email-the-best-part-was-the-wide-selection-of-doctors-and-medical-specialties-available-i-highly-recommend-this-platform-to-anyone-seeking-a-hassle-free-way-to-book-doctor-appointments-online-gLq-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #00a5ff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .i-recently-used-this-online-doctor-appointment-booking-service-and-i-must-say-it-exceeded-my-expectations-the-websites-user-friendly-interface-made-scheduling-an-appointment-a-breeze-within-minutes-i-found-a-suitable-doctor-selected-a-convenient-time-slot-and-received-a-confirmation-email-the-best-part-was-the-wide-selection-of-doctors-and-medical-specialties-available-i-highly-recommend-this-platform-to-anyone-seeking-a-hassle-free-way-to-book-doctor-appointments-online-gLq .i-recently-used-this-online-doctor-appointment-booking-service-and-i-must-say-it-exceeded-my-expectations-the-websites-user-friendly-interface-made-scheduling-an-appointment-a-breeze-within-minutes-i-found-a-suitable-doctor-selected-a-convenient-time-slot-and-received-a-confirmation-email-the-best-part-was-the-wide-selection-of-doctors-and-medical-specialties-available-i-highly-recommend-this-platform-to-anyone-seeking-a-hassle-free-way-to-book-doctor-appointments-online-gLq-sub-1 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .i-recently-used-this-online-doctor-appointment-booking-service-and-i-must-say-it-exceeded-my-expectations-the-websites-user-friendly-interface-made-scheduling-an-appointment-a-breeze-within-minutes-i-found-a-suitable-doctor-selected-a-convenient-time-slot-and-received-a-confirmation-email-the-best-part-was-the-wide-selection-of-doctors-and-medical-specialties-available-i-highly-recommend-this-platform-to-anyone-seeking-a-hassle-free-way-to-book-doctor-appointments-online-gLq .i-recently-used-this-online-doctor-appointment-booking-service-and-i-must-say-it-exceeded-my-expectations-the-websites-user-friendly-interface-made-scheduling-an-appointment-a-breeze-within-minutes-i-found-a-suitable-doctor-selected-a-convenient-time-slot-and-received-a-confirmation-email-the-best-part-was-the-wide-selection-of-doctors-and-medical-specialties-available-i-highly-recommend-this-platform-to-anyone-seeking-a-hassle-free-way-to-book-doctor-appointments-online-gLq-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #00a5ff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .ellipse-17-ASM {
+  width: 15.2rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 94.8rem;
+  top: 209.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-17-bg.png');
+  border-radius: 7.6rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .i-cant-believe-i-didnt-start-using-this-online-doctor-appointment-booking-platform-sooner-it-has-truly-saved-me-time-and-effort-with-my-busy-schedule-finding-the-right-doctor-and-coordinating-appointments-used-to-be-a-nightmare-but-this-service-has-made-the-whole-process-seamless-i-appreciate-the-ability-to-view-doctors-profiles-read-patient-reviews-and-book-appointments-with-just-a-few-clicks-plus-i-received-timely-reminders-ensuring-i-never-miss-an-appointment-excellent-service-overall-sbf {
+  width: 49.9rem;
+  height: 21.6rem;
+  position: absolute;
+  left: 77.45rem;
+  top: 185.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .i-cant-believe-i-didnt-start-using-this-online-doctor-appointment-booking-platform-sooner-it-has-truly-saved-me-time-and-effort-with-my-busy-schedule-finding-the-right-doctor-and-coordinating-appointments-used-to-be-a-nightmare-but-this-service-has-made-the-whole-process-seamless-i-appreciate-the-ability-to-view-doctors-profiles-read-patient-reviews-and-book-appointments-with-just-a-few-clicks-plus-i-received-timely-reminders-ensuring-i-never-miss-an-appointment-excellent-service-overall-sbf .i-cant-believe-i-didnt-start-using-this-online-doctor-appointment-booking-platform-sooner-it-has-truly-saved-me-time-and-effort-with-my-busy-schedule-finding-the-right-doctor-and-coordinating-appointments-used-to-be-a-nightmare-but-this-service-has-made-the-whole-process-seamless-i-appreciate-the-ability-to-view-doctors-profiles-read-patient-reviews-and-book-appointments-with-just-a-few-clicks-plus-i-received-timely-reminders-ensuring-i-never-miss-an-appointment-excellent-service-overall-sbf-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #00a5ff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .i-cant-believe-i-didnt-start-using-this-online-doctor-appointment-booking-platform-sooner-it-has-truly-saved-me-time-and-effort-with-my-busy-schedule-finding-the-right-doctor-and-coordinating-appointments-used-to-be-a-nightmare-but-this-service-has-made-the-whole-process-seamless-i-appreciate-the-ability-to-view-doctors-profiles-read-patient-reviews-and-book-appointments-with-just-a-few-clicks-plus-i-received-timely-reminders-ensuring-i-never-miss-an-appointment-excellent-service-overall-sbf .i-cant-believe-i-didnt-start-using-this-online-doctor-appointment-booking-platform-sooner-it-has-truly-saved-me-time-and-effort-with-my-busy-schedule-finding-the-right-doctor-and-coordinating-appointments-used-to-be-a-nightmare-but-this-service-has-made-the-whole-process-seamless-i-appreciate-the-ability-to-view-doctors-profiles-read-patient-reviews-and-book-appointments-with-just-a-few-clicks-plus-i-received-timely-reminders-ensuring-i-never-miss-an-appointment-excellent-service-overall-sbf-sub-1 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .i-cant-believe-i-didnt-start-using-this-online-doctor-appointment-booking-platform-sooner-it-has-truly-saved-me-time-and-effort-with-my-busy-schedule-finding-the-right-doctor-and-coordinating-appointments-used-to-be-a-nightmare-but-this-service-has-made-the-whole-process-seamless-i-appreciate-the-ability-to-view-doctors-profiles-read-patient-reviews-and-book-appointments-with-just-a-few-clicks-plus-i-received-timely-reminders-ensuring-i-never-miss-an-appointment-excellent-service-overall-sbf .i-cant-believe-i-didnt-start-using-this-online-doctor-appointment-booking-platform-sooner-it-has-truly-saved-me-time-and-effort-with-my-busy-schedule-finding-the-right-doctor-and-coordinating-appointments-used-to-be-a-nightmare-but-this-service-has-made-the-whole-process-seamless-i-appreciate-the-ability-to-view-doctors-profiles-read-patient-reviews-and-book-appointments-with-just-a-few-clicks-plus-i-received-timely-reminders-ensuring-i-never-miss-an-appointment-excellent-service-overall-sbf-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #00a5ff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .ellipse-18-aRX {
+  width: 14.5028rem;
+  height: 14.3rem;
+  position: absolute;
+  left: 127.1rem;
+  top: 192.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh .arrow-2-JsK {
+  width: 5rem;
+  height: 0;
+  position: absolute;
+  left: 131.9rem;
+  top: 199.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh .xavier-adam-pqf {
+  width: 13.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 37.1rem;
+  top: 227.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #008cd8;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .dinesh-samanth-8bT {
+  width: 17.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 93.8rem;
+  top: 227.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #008cd8;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .vector-6-e41 {
+  width: 23.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 71rem;
+  top: 245.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh .frequently-asked-questions-yc5 {
+  width: 43.5rem;
+  height: 14rem;
+  position: absolute;
+  left: 73rem;
+  top: 257.1rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .frequently-asked-questions-yc5 .frequently-asked-questions-yc5-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #008cd8;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .frequently-asked-questions-yc5 .frequently-asked-questions-yc5-sub-1 {
+}
+.assignment--oYu .auto-group-ugfs-eYh .vector-7-wxD {
+  width: 27rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 73rem;
+  top: 263.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-37-say {
+  width: 56.8rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 73rem;
+  top: 274.6rem;
+  background-color: rgba(217, 217, 217, 0.3000000119);
+  border-radius: 2.2rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-39-nhw {
+  width: 56.8rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 73rem;
+  top: 299.6rem;
+  background-color: rgba(217, 217, 217, 0.3000000119);
+  border-radius: 2.2rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-40-JwB {
+  width: 56.8rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 73rem;
+  top: 312.1rem;
+  background-color: rgba(217, 217, 217, 0.3000000119);
+  border-radius: 2.2rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .can-i-book-an-appointment-on-behalf-of-someone-else-2cH {
+  width: 41.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 75.4rem;
+  top: 277.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-ugfs-eYh .can-i-get-a-weekend-appointment-X3F {
+  width: 35.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 75.4rem;
+  top: 303.8rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .is-there-an-option-for-online-consultation-d6H {
+  width: 43.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 75.4rem;
+  top: 316.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-ugfs-eYh .vector-8-vLH {
+  width: 19.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 59.2rem;
+  top: 339.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-ugfs-eYh .rectangle-38-rzd {
+  width: 56.8rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 73rem;
+  top: 287.1rem;
+  background-color: rgba(217, 217, 217, 0.3000000119);
+  border-radius: 2.2rem;
+}
+.assignment--oYu .auto-group-ugfs-eYh .why-do-i-need-a-cardiologist-aQq {
+  width: 30.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 75.4rem;
+  top: 291.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-kw5t-GoT {
+  width: 144rem;
+  height: 87.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.assignment--oYu .auto-group-kw5t-GoT .rectangle-1-yC5 {
+  width: 144rem;
+  height: 83rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(90.39deg, rgba(18, 142, 209, 0.5699999928) -113.21%, rgba(18, 142, 209, 0) 61.18%);
+}
+.assignment--oYu .auto-group-kw5t-GoT .find-the-best-cardiologists-in-bhubaneshwar-4jK {
+  width: 68.2rem;
+  height: 14rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 16.8rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-kw5t-GoT .find-the-best-cardiologists-in-bhubaneshwar-4jK .find-the-best-cardiologists-in-bhubaneshwar-4jK-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-kw5t-GoT .find-the-best-cardiologists-in-bhubaneshwar-4jK .find-the-best-cardiologists-in-bhubaneshwar-4jK-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #138ed1;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-kw5t-GoT .find-the-best-cardiologists-in-bhubaneshwar-4jK .find-the-best-cardiologists-in-bhubaneshwar-4jK-sub-2 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-kw5t-GoT .rectangle-41-rYh {
+  width: 28.3rem;
+  height: 15.0445rem;
+  position: absolute;
+  left: 82.8rem;
+  top: 51.98rem;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.8rem;
+}
+.assignment--oYu .auto-group-kw5t-GoT .get-all-your-heart-issues-treated-with-the-best-doctors-in-town-now-with-us-find-the-best-cardiologists-in-bhubaneshwar-xbj {
+  width: 63.1rem;
+  height: 7rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 33.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.75;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-kw5t-GoT .rectangle-7-2Lh {
+  width: 33.3rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 43.4rem;
+  background-color: #138ed1;
+  border-radius: 4.1rem;
+}
+.assignment--oYu .auto-group-kw5t-GoT .book-appointment-9gD {
+  width: 23.2rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 45.2rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-kw5t-GoT .rectangle-10-rqX {
+  width: 70.6rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 77.3rem;
+  box-shadow: 0 0.4rem 0.8rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-kw5t-GoT .rectangle-11-B77 {
+  width: 11.8rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 71rem;
+  top: 77.3rem;
+  background-color: #138ed1;
+}
+.assignment--oYu .auto-group-kw5t-GoT .vector-1-Wv5 {
+  width: 11.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 33.7rem;
+  top: 22.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-kw5t-GoT .search-for-doctors-hospitals-medicines-rU9 {
+  width: 48.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 81rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #6d6d6d;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-kw5t-GoT .ellipse-22-LeD {
+  width: 3.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 53.2rem;
+  background-color: #75ceff;
+  border-radius: 1.65rem;
+}
+.assignment--oYu .auto-group-kw5t-GoT .ellipse-23-GGy {
+  width: 3.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 57.8rem;
+  background-color: #75ceff;
+  border-radius: 1.65rem;
+}
+.assignment--oYu .auto-group-kw5t-GoT .ellipse-24-CAd {
+  width: 3.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 62.4rem;
+  background-color: #75ceff;
+  border-radius: 1.65rem;
+}
+.assignment--oYu .auto-group-kw5t-GoT .expert-cardiologists-L1w {
+  width: 19.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 53.7rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-kw5t-GoT .timely-report-delivery-F8u {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 58.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-kw5t-GoT .x7-medical-assistance-x3K {
+  width: 20rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 62.9rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-kw5t-GoT .rectangle-57-ewj {
+  width: 33.3rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 54.8rem;
+  border: solid 0.1rem #008cd8;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 4.1rem;
+}
+.assignment--oYu .auto-group-kw5t-GoT .download-app-xSd {
+  width: 17.9rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 56.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #138ed1;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu {
+  width: 144rem;
+  height: 112.5rem;
+  position: absolute;
+  left: 0;
+  top: 87.8rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-1-yMj {
+  width: 67.0093rem;
+  height: 68.8902rem;
+  position: absolute;
+  left: 77rem;
+  top: -75.4rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-1-yMj .rectangle-3-5ff {
+  width: 52.0984rem;
+  height: 52.0983rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 8rem;
+  border: solid 0.3rem #00a5ff;
+  box-sizing: border-box;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-1-yMj .rectangle-3-CEV {
+  width: 47rem;
+  height: 47rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 11.2835rem;
+  background-color: #75ceff;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-1-yMj .young-doctor-is-using-stethoscope-listen-heartbeat-patient-shot-female-doctor-giving-male-patient-check-up-removebg-preview-transformed-1-8dw {
+  width: 53.1rem;
+  height: 57.8rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-1-yMj .rectangle-4-R7F {
+  width: 34.0902rem;
+  height: 34.0902rem;
+  position: absolute;
+  left: 32.9191rem;
+  top: 34.8rem;
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-1-yMj .rectangle-5-Yhf {
+  width: 8.2143rem;
+  height: 8.2143rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 53.281rem;
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-1-yMj .rectangle-4-H9T {
+  width: 34.0902rem;
+  height: 34.0902rem;
+  position: absolute;
+  left: -0rem;
+  top: 33.6rem;
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-1-yMj .line-1-2Mw {
+  width: 12.8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 37.5rem;
+  background-color: #00a5ff;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-5xlv-kYq {
+  width: 89.95rem;
+  height: 14rem;
+  position: absolute;
+  left: 28.15rem;
+  top: 9.6rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-5xlv-kYq .take-a-look-at-our-list-of-specialized-doctors-gxH {
+  width: 87.7rem;
+  height: 14rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-5xlv-kYq .take-a-look-at-our-list-of-specialized-doctors-gxH .take-a-look-at-our-list-of-specialized-doctors-gxH-sub-0 {
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-5xlv-kYq .take-a-look-at-our-list-of-specialized-doctors-gxH .take-a-look-at-our-list-of-specialized-doctors-gxH-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.4583333333;
+  color: #138ed1;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-5xlv-kYq .take-a-look-at-our-list-of-specialized-doctors-gxH .take-a-look-at-our-list-of-specialized-doctors-gxH-sub-2 {
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-5xlv-kYq .vector-2-czM {
+  width: 30.6rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 59.35rem;
+  top: 7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .explore-our-list-of-specialized-cardiologists-and-get-treated-by-the-best-in-the-field-x2d {
+  width: 57.4rem;
+  height: 8rem;
+  position: absolute;
+  left: 43.25rem;
+  top: 25.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  color: #6d6d6d;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-hdsf-rnu .search-pqX {
+  width: 5.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 74.2rem;
+  top: -7.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq {
+  width: 129.7028rem;
+  height: 51rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 40.2rem;
+  display: flex;
+  column-gap: 6.9rem;
+  align-items: center;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF {
+  width: 35.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF .rectangle-14-CLH {
+  width: 35.3rem;
+  height: 39rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF .ellipse-2-ipR {
+  width: 25.4rem;
+  height: 25.4rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 25.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg.png');
+  border-radius: 12.7rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF .dr-yusuf-qureshi-EGy {
+  width: 25.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 2rem;
+  top: 4.1rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.4285714286;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF .patients-treated-8dF {
+  width: 21.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 2rem;
+  top: 16.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF .rectangle-16-EwB {
+  width: 15.3rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 9.3rem;
+  background-color: #138ed1;
+  border-radius: 1.7rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF .cardiologist-mgD {
+  width: 8.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 10rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF .item-43-5wo {
+  width: 3.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 13.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF .reviews--14m {
+  width: 13.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 13.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6d6d6d;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-evbb-fbF .years-experience-JJm {
+  width: 20.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.05rem;
+  top: 21.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX {
+  width: 35.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX .rectangle-13-XxD {
+  width: 35.3rem;
+  height: 39rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX .ellipse-1-sFP {
+  width: 25.4rem;
+  height: 25.4rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 25.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg.png');
+  border-radius: 12.7rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX .dr-aditya-dutta-AkH {
+  width: 23.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 4.1rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.4285714286;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX .patients-treated-UFB {
+  width: 22.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 16.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX .rectangle-17-nWm {
+  width: 15.3rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 9.3rem;
+  background-color: #138ed1;
+  border-radius: 1.7rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX .cardiologist-v7B {
+  width: 8.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 10rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX .item-47-Dry {
+  width: 3.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 13.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX .reviews--8yw {
+  width: 14.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 13.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6d6d6d;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-ytnd-oFX .years-of-experience-Sjj {
+  width: 23.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 21.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs {
+  width: 45.3028rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .rectangle-15-URX {
+  width: 35.3rem;
+  height: 39rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .ellipse-3-NfK {
+  width: 25.4rem;
+  height: 25.4rem;
+  position: absolute;
+  left: 5rem;
+  top: 25.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-3-bg.png');
+  border-radius: 12.7rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .dr-diptesh-kumar-fuK {
+  width: 26.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 4.1rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.4285714286;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .patients-treated-Ar5 {
+  width: 21.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 16.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .rectangle-18-tGH {
+  width: 15.3rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 9.3rem;
+  background-color: #138ed1;
+  border-radius: 1.7rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .cardiologist-cCH {
+  width: 8.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 10rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .item-43-Xa9 {
+  width: 3.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 13.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .reviews--e8y {
+  width: 13.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 8rem;
+  top: 13.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6d6d6d;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .ellipse-12-M3P {
+  width: 14.5028rem;
+  height: 14.3rem;
+  position: absolute;
+  left: 30.8rem;
+  top: 10rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .arrow-1-gLZ {
+  width: 5rem;
+  height: 0;
+  position: absolute;
+  left: 35.6rem;
+  top: 17.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-vkqm-xgq .auto-group-auhj-YXs .years-of-experience-ck1 {
+  width: 22.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 21.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-bzpd-vVo {
+  width: 6rem;
+  height: 1rem;
+  position: absolute;
+  left: 69rem;
+  top: 94.9rem;
+  display: flex;
+  column-gap: 1.5rem;
+  align-items: center;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-bzpd-vVo .ellipse-4-eRo {
+  width: 1rem;
+  height: 1rem;
+  background-color: #2f2f2f;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-bzpd-vVo .ellipse-5-zVf {
+  width: 1rem;
+  height: 1rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.assignment--oYu .auto-group-hdsf-rnu .auto-group-bzpd-vVo .ellipse-6-LZX {
+  width: 1rem;
+  height: 1rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-2-VBX {
+  width: 70.6rem;
+  height: 63.3rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 103.2rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-2-VBX .rectangle-19-cmw {
+  width: 60.8rem;
+  height: 48.6rem;
+  position: absolute;
+  left: 0;
+  top: 14.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9.5rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-2-VBX .rectangle-20-9ms {
+  width: 66rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 0;
+  top: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9.5rem;
+}
+.assignment--oYu .auto-group-hdsf-rnu .component-2-VBX .docteam-removebg-preview-transformed-1-Ht5 {
+  width: 70.6rem;
+  height: 63.3rem;
+  position: absolute;
+  left: -2.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .stethoscope-D13 {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 85.5rem;
+  top: -33.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .labprofile-YZ7 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 85.3rem;
+  top: -29.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .devicereset-Uhf {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 85.3rem;
+  top: -24.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .grade-CtZ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 53.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .grade-9J1 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 60.2rem;
+  top: 53.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-hdsf-rnu .grade-szh {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 102.1rem;
+  top: 53.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-gsem-pQ9 {
+  width: 144rem;
+  height: 312.2rem;
+  position: absolute;
+  left: 0;
+  top: 235.6rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-3-Yb3 {
+  box-sizing: border-box;
+  padding: 1.9rem 3rem 3rem 3rem;
+  width: 33.4rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 49.4rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  backdrop-filter: blur(1.25rem);
+  background-color: rgba(217, 217, 217, 0.3600000143);
+  border-radius: 2.7rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-3-Yb3 .over-13k-people-have-trusted-us-and-love-us-Ruj {
+  margin: 0rem 3.1rem 1.5rem 0rem;
+  max-width: 24.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-3-Yb3 .auto-group-ej1f-83T {
+  margin-right: 4rem;
+  width: 23.4rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-3-Yb3 .auto-group-ej1f-83T .ellipse-7-FNy {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #00a5ff;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-7-bg.png');
+  border-radius: 2.6rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-3-Yb3 .auto-group-ej1f-83T .ellipse-8-9DT {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 0;
+  border: solid 0.1rem #00a5ff;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-8-bg.png');
+  border-radius: 2.6rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-3-Yb3 .auto-group-ej1f-83T .ellipse-9-STT {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 9rem;
+  top: 0;
+  border: solid 0.1rem #00a5ff;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-9-bg.png');
+  border-radius: 2.6rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-3-Yb3 .auto-group-ej1f-83T .ellipse-10-wf7 {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 0;
+  border: solid 0.1rem #00a5ff;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-10-bg.png');
+  border-radius: 2.6rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-3-Yb3 .auto-group-ej1f-83T .ellipse-11-dnq {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 0;
+  border: solid 0.1rem #00a5ff;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-11-bg.png');
+  border-radius: 2.6rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .assignmentturnedin-W5w {
+  width: 4.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .assignmentturnedin-P9j {
+  width: 4.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 9.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD {
+  width: 71.1276rem;
+  height: 61.1324rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 223.2953rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .rectangle-32-Css {
+  width: 51.1905rem;
+  height: 51.1905rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 0.0047rem;
+  border: solid 0.3rem #00a5ff;
+  box-sizing: border-box;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .rectangle-31-jcu {
+  width: 51.1905rem;
+  height: 51.1905rem;
+  position: absolute;
+  left: 10rem;
+  top: 0;
+  background-color: #75ceff;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .doctor-nurses-special-equipment-removebg-preview-1-5Ay {
+  width: 52.9rem;
+  height: 43.3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 0.0047rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .rectangle-33-mpV {
+  width: 35.5276rem;
+  height: 35.5276rem;
+  position: absolute;
+  left: 35.6rem;
+  top: 25.586rem;
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .rectangle-34-JZX {
+  width: 35.5276rem;
+  height: 35.5276rem;
+  position: absolute;
+  left: 0;
+  top: 25.6047rem;
+  background-color: #ffffff;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .line-2-Sfj {
+  width: 12.5rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 28.6047rem;
+  background-color: #00a5ff;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .polygon-1-BNR {
+  width: 20.6rem;
+  height: 12rem;
+  position: absolute;
+  left: 25rem;
+  top: 39.9047rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .rectangle-35-KUd {
+  width: 35.3rem;
+  height: 18.5rem;
+  position: absolute;
+  left: 17.5rem;
+  top: 40.8047rem;
+  backdrop-filter: blur(1.25rem);
+  background-color: rgba(47, 47, 47, 0.1199999973);
+  border-radius: 2.8rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .still-have-more-questions-dER {
+  width: 29.9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 20.7rem;
+  top: 43.4047rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5909090909;
+  color: #2f2f2f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .dont-worry-we-are-here-to-answer-all-your-questions-8BB {
+  width: 30.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 20.65rem;
+  top: 47.6047rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #6d6d6d;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .rectangle-36-CRw {
+  width: 13.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 27.3rem;
+  top: 53.6047rem;
+  background-color: #2f2f2f;
+  border-radius: 1.75rem;
+}
+.assignment--oYu .auto-group-gsem-pQ9 .component-5-hgD .learn-more-jAy {
+  width: 9.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 29.5rem;
+  top: 54.4047rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .assignmentturnedin-qE1 {
+  width: 4.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 223.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .assignmentturnedin-jqB {
+  width: 4.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 230.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .call-U25 {
+  width: 3.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 112.2rem;
+  top: 637.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .component-4-bMb {
+  width: 2.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 753.2rem;
+}
+.assignment--oYu .component-4-bMb .ellipse-25-8MX {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 1.35rem;
+}
+.assignment--oYu .component-4-bMb .c-e4y {
+  width: 1.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .mail-LyP {
+  width: 3.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 66.9rem;
+  top: 561.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assignment--oYu .rectangle-58-TYD {
+  width: 144rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.assignment--oYu .home-zHF {
+  width: 5.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 59.2rem;
+  top: 2.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #00a5ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .about-us-Hn9 {
+  width: 6.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 67rem;
+  top: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .contact-us-bXw {
+  width: 8.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 91.2rem;
+  top: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .view-hospitals-uYd {
+  width: 11rem;
+  height: 4rem;
+  position: absolute;
+  left: 77rem;
+  top: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assignment--oYu .screenshot2023-07-25165513-removebg-preview-1-27T {
+  width: 21.4rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 1.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
